@@ -1,7 +1,8 @@
 ![logo](https://github.com/Hassan-dot-cyber/Hassan-dot-cyber/blob/main/Black%20and%20White%20Edgy%20Gaming%20Youtube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Hassan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpresent.readthedocs.io%2Fen%2Flatest%2Fgallery%2Fwelcome-to-coding%2F&psig=AOvVaw382_PwfuwGIo2E6aSRpj3g&ust=1733402343420000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLDo64uRjooDFQAAAAAdAAAAABAJ
+  "
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassan-dot-cyber&label=Profile%20views&color=0e75b6&style=flat" alt="hassan-dot-cyber" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hassan-dot-cyber" alt="hassan-dot-cyber" /></a> </p>
